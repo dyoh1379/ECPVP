@@ -1,0 +1,4 @@
+name: ECPVP
+version: '${project.version}'
+main: kr.dyoh1379.ecpvp.Main
+api-version: '1.20'
